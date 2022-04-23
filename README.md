@@ -4,7 +4,7 @@ A good way to practice javascript by building this simple game.
 
 DEMO: 
 
-
+![color matching game](./images/thumbnail.png)
 
 ## Game rule 
 
