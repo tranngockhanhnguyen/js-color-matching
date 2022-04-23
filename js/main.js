@@ -82,7 +82,7 @@ function handleColorClick(liElement) {
     selections[0].classList.remove('active')
     selections[1].classList.remove('active')
 
-    gameStatus = GAME_STATUS.PLAYING
+    if (gameStatus !== GAME_STATUS.FINISHED) gameStatus = GAME_STATUS.PLAYING
 
     // reset selections for the next turn
     selections = []
