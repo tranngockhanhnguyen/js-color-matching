@@ -2,7 +2,7 @@
 
 A good way to practice javascript by building this simple game.
 
-DEMO: [https://color-matching-tranngockhanhnguyen.vercel.app/](https://color-matching-tranngockhanhnguyen.vercel.app/)
+DEMO: [https://awesomecolormatching.vercel.app/](https://awesomecolormatching.vercel.app/)
 
 ![color matching game](./images/thumbnail.png)
 
